@@ -1,0 +1,63 @@
+[11-Apr-2020 13:58:12 Etc/GMT] PHP Notice:  Undefined index: sid in /home/allexioi/public_html/anandamtuition/admin/dashboard.php on line 5
+[11-Apr-2020 14:27:17 Etc/GMT] PHP Notice:  Undefined index: sid in /home/allexioi/public_html/anandamtuition/admin/tutorregistration.php on line 5
+[11-Apr-2020 14:30:55 Etc/GMT] PHP Notice:  Undefined index: sid in /home/allexioi/public_html/anandamtuition/admin/studentregistration.php on line 5
+[13-Apr-2020 13:40:21 Etc/GMT] PHP Notice:  Undefined index: sid in /home/allexioi/public_html/anandamtuition/admin/dashboard.php on line 5
+[10-Nov-2021 05:38:22 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:39:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:39:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 52
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 53
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 75
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 76
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 98
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 99
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 121
+[10-Nov-2021 05:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 122
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 52
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 53
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 75
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 76
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 98
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 99
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 121
+[10-Nov-2021 05:40:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 122
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 52
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 53
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 75
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 76
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 98
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 99
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 121
+[10-Nov-2021 05:41:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 122
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 52
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 53
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 75
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 76
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 98
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 99
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 121
+[10-Nov-2021 05:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 122
+[10-Nov-2021 05:42:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:42:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/contactdetail.php on line 89
+[10-Nov-2021 05:42:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/contactdetail.php on line 90
+[10-Nov-2021 05:42:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:42:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 50
+[10-Nov-2021 05:42:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 51
+[10-Nov-2021 05:42:52 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:42:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/contactdetail.php on line 89
+[10-Nov-2021 05:42:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/contactdetail.php on line 90
+[10-Nov-2021 05:43:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:43:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 50
+[10-Nov-2021 05:43:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 51
+[10-Nov-2021 05:46:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'allexioi_tution'@'localhost' (using password: YES) in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/database/database.php on line 3
+[10-Nov-2021 05:46:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/delete2.php on line 8
+[10-Nov-2021 05:46:15 UTC] PHP Notice:  Undefined variable: image in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/delete2.php on line 9
+[10-Nov-2021 05:46:15 UTC] PHP Warning:  unlink(resume/): Is a directory in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/delete2.php on line 9
+[10-Nov-2021 05:46:56 UTC] PHP Notice:  Undefined variable: image in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/delete2.php on line 9
+[10-Nov-2021 05:46:56 UTC] PHP Warning:  unlink(resume/): Is a directory in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/delete2.php on line 9
+[11-Nov-2021 15:20:01 UTC] PHP Notice:  Undefined index: sid in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 3
+[11-Nov-2021 15:20:32 UTC] PHP Notice:  Undefined index: sid in /home/tra9zi3bv24j/public_html/jbhpictures.com/dailylearn/admin/dashboard.php on line 3
