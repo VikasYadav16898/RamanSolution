@@ -1,0 +1,71 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'template',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '3174edbf6723b924b19676ce416f906fa8c5a324',
+        'name' => 'almasaeed2010/adminlte',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'almasaeed2010/adminlte' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'template',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '3174edbf6723b924b19676ce416f906fa8c5a324',
+            'dev_requirement' => false,
+        ),
+        'bower-asset/bootstrap' => array(
+            'pretty_version' => 'v3.4.1',
+            'version' => '3.4.1.0',
+            'type' => 'bower-asset',
+            'install_path' => __DIR__ . '/../bower-asset/bootstrap',
+            'aliases' => array(),
+            'reference' => '68b0d231a13201eb14acd3dc84e51543d16e5f7e',
+            'dev_requirement' => false,
+        ),
+        'bower-asset/jquery' => array(
+            'pretty_version' => '3.6.0',
+            'version' => '3.6.0.0',
+            'type' => 'bower-asset',
+            'install_path' => __DIR__ . '/../bower-asset/jquery',
+            'aliases' => array(),
+            'reference' => 'e786e3d9707ffd9b0dd330ca135b66344dcef85a',
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => 'v1.12.0',
+            'version' => '1.12.0.0',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/./installers',
+            'aliases' => array(),
+            'reference' => 'd20a64ed3c94748397ff5973488761b22f6d3f19',
+            'dev_requirement' => false,
+        ),
+        'npm-asset/jquery' => array(
+            'pretty_version' => '2.2.4',
+            'version' => '2.2.4.0',
+            'type' => 'npm-asset',
+            'install_path' => __DIR__ . '/../npm-asset/jquery',
+            'aliases' => array(),
+            'reference' => NULL,
+            'dev_requirement' => false,
+        ),
+        'roundcube/plugin-installer' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'shama/baton' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+    ),
+);
